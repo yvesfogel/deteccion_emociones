@@ -34,4 +34,3 @@ Python : 3.6.5
 - imutils
 - scikit-learn
 - re
-- os
